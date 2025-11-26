@@ -1,0 +1,3 @@
+/home/a/SO2/for_gh/cmake-build-debug/CMakeFiles/for_gh.dir
+/home/a/SO2/for_gh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/a/SO2/for_gh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
